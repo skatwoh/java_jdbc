@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lab12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lab34.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
